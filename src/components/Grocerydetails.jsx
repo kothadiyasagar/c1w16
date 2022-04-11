@@ -4,8 +4,7 @@ import GroceryItem from "./GroceryItem"
  import './GroceryItem.css'
 
 
-const GroceryDetails = (data)=>{
-/console.log(data)
+const GroceryDetails = ()=>{
   
     return(
         <>
